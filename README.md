@@ -85,6 +85,11 @@ python eval.py
 
 You can specify the parameters listed in the `eval.py` file by flagging them or manually changing them.  
 
+## Demo
+To demo on an image 
+'''Shell
+python demo.py --weights <path to weights file> --input_frame <path to imput image> 
+'''
 
 <img align="center" src= "https://github.com/shivasanketh-rm/PyTorch_SSD/blob/master/demo/detections_a.png">
 
