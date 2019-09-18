@@ -86,7 +86,7 @@ python eval.py
 You can specify the parameters listed in the `eval.py` file by flagging them or manually changing them.  
 
 
-<img align="left" src= "https://github.com/amdegroot/ssd.pytorch/blob/master/doc/detection_examples.png">
+<img align="left" src= "https://github.com/shivasanketh-rm/PyTorch_SSD/tree/master/demo/detections_a.jpg">
 
 ## Performance
 
